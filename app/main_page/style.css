@@ -1,0 +1,25 @@
+.spacious {
+  margin: 1em;
+}
+
+p {
+  margin-top: -1.6rem;
+  z-index: 100;
+}
+
+p.positioned {
+  position: relative;
+}
+
+input {
+  margin-top: -1.6rem;
+  z-index: 100;
+}
+
+input.positioned {
+  position: relative;
+}
+
+.grayBg {
+  background-color: lightgray
+}
